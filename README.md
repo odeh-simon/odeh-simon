@@ -16,9 +16,6 @@ I'm a Frontend Developer currently working as frontend developer at [Cartle](htt
 
 ---
 
-|
-[![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=odeh-simon)](https://github.com/anuraghazra/github-readme-stats)
-|
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=odeh-simon)](https://github.com/anuraghazra/github-readme-stats)
-|
+
+| [![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=odeh-simon)](https://github.com/anuraghazra/github-readme-stats) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=odeh-simon)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
