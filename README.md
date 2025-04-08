@@ -7,10 +7,9 @@ I'm a Frontend Engineer currently working as a frontend developer at [Cartle](ht
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2025.
-- 🌱 I’m currently learning JavaScript, NodeJs, Database Management and Building scalable API.
+- 🌱 I’m currently learning JavaScrip, NodeJs, Database Management and Building scalable API.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Frontend Engineer (Intern or Junior level).
+- 💼 Job interests:Frontend Engineer (mobile and Web).
 - 📫 You can check me out on twitter @[poundz_codes](https://x.com/Poundz_codes?t=y8PKY0qzRFhzugZvZLd-wQ&s=09) and contact me by emailing simonodeh36@gmail.com.
 
 
