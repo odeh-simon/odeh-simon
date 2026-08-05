@@ -1,24 +1,30 @@
 # Simon Odeh
 
-Frontend Engineer building reliable SaaS interfaces with React, Next.js, TypeScript, and GraphQL.
+Software engineer interested in building full-stack applications and reliable AI-powered products.
 
-I work on data-heavy products, turning product requirements into maintainable frontend systems. My current focus is UI architecture, design systems, performance, accessibility, and dependable delivery through testing and careful review.
+I enjoy working across the product stack—from accessible interfaces and design systems to APIs, data models, real-time workflows, and deployment. My strongest foundation is frontend engineering with React, Next.js, TypeScript, and GraphQL, and I am expanding further into backend development and applied AI engineering.
 
-Recent work includes owning the technical implementation of an internal structure-aware skeleton UI package and improving complex SaaS workflows built with React, TypeScript, GraphQL, and Apollo Client.
+## What I care about
 
-## Engineering focus
+- Full-stack product development: turning ideas into usable, maintainable applications
+- AI engineering: integrating models into products, designing agentic workflows, and evaluating reliability
+- Frontend architecture: scalable component systems, state management, and complex data flows
+- Real-time and offline-aware experiences for operational products
+- Developer tooling that makes implementation quality easier to verify
+- Software quality across testing, accessibility, performance, and maintainability
 
-- Frontend architecture for complex, data-heavy product workflows
-- Reusable UI systems, design tokens, and component documentation
-- GraphQL/Apollo data flows, state management, and performance
-- Accessible, responsive interfaces with practical test coverage
+## What I am building and exploring
 
-## Core stack
+- **Trail Safe** — a multi-role hiking-safety application with GPS-based workflows, real-time incident coordination, and offline-aware behaviour. It is currently being strengthened across security, reliability, and UI/UX.
+- **AI-assisted implementation assurance** — exploring tools that connect product requirements to runtime, visual, test, and human-review evidence.
 
-**Frontend:** TypeScript, JavaScript, React, Next.js  
-**Data and state:** GraphQL, Apollo Client, TanStack Query, Redux, Zustand  
-**UI and quality:** Tailwind CSS, Storybook, Vitest, Playwright  
-**Supporting tools:** Node.js, Firebase, GitHub Actions
+## Technologies
+
+**Frontend:** TypeScript, JavaScript, React, Next.js, GraphQL, Apollo Client  
+**Backend and data:** Node.js, REST APIs, Firebase, PostgreSQL, Prisma  
+**State and UI:** TanStack Query, Redux, Zustand, Tailwind CSS, Storybook  
+**Quality and delivery:** Vitest, Playwright, GitHub Actions  
+**Currently exploring:** LLM APIs, tool-using agents, and evaluation-driven AI development
 
 ## Connect
 
