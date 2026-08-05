@@ -15,7 +15,7 @@ I enjoy working across the product stack—from accessible interfaces and design
 
 ## What I am building and exploring
 
-- **Trail Safe** — a multi-role hiking-safety application with GPS-based workflows, real-time incident coordination, and offline-aware behaviour. It is currently being strengthened across security, reliability, and UI/UX.
+- **Trail Safe** — a multi-role hiking-safety application with GPS-based workflows, real-time incident coordination, and offline-aware behaviour.
 - **AI-assisted implementation assurance** — exploring tools that connect product requirements to runtime, visual, test, and human-review evidence.
 
 ## Technologies
