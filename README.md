@@ -2,7 +2,7 @@
 
 Software engineer interested in building full-stack applications and reliable AI-powered products.
 
-I enjoy working across the product stack—from accessible interfaces and design systems to APIs, data models, real-time workflows, and deployment. My strongest foundation is frontend engineering with React, Next.js, TypeScript, and GraphQL, and I am expanding further into backend development and applied AI engineering.
+I enjoy working across the product stack, from accessible interfaces and design systems to APIs, data models, real-time workflows, and deployment. My strongest foundation is frontend engineering with React, Next.js, TypeScript, and GraphQL, and I am expanding further into backend development and applied AI engineering.
 
 ## What I care about
 
